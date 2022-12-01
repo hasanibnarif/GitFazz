@@ -1,10 +1,12 @@
 ### HELLO WORLD 👋
 
-This is *Efaz*
+Some quick facts about me - 
 
-- 👨‍🎓 I am going to graduate this April from BUET with major in CSE
-- 📊 Currently working on Statistical Shape Modelling as my Research project. Check here - <a href="https://www.researchgate.net/profile/Kazi-Hasan-Arif">Kazi Hasan Ibn Arif on ResearchGate</a>
-- 📥 Reach me at  hasan.ibn.arif@gmail.com anytime!
+- I graduated from CSE, BUET on May, 2022
+- Joined IQVIA as an ML engineer, currently working with NBA global team
+- I explored applied machine learning in my undergraduate research, check them out maybe? => https://www.researchgate.net/profile/Kazi-Hasan-Arif
+- Currently, I am exploring High performance Systems, it’s dependability and scaling algorithms for HPC as my research direction (DM me for collaboration)
+- Reach me at  hasan.ibn.arif@gmail.com anytime!
 
 
 
